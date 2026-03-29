@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app_crud\\app_crud\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|solutionrelative:app_crud\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app_crud\\app_crud\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|solutionrelative:app_crud\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app_crud\\app_crud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|solutionrelative:app_crud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app_crud\\app_crud\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|solutionrelative:app_crud\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app_crud\\app_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C1DCAC2-9671-4CC5-81B7-0B66D46A3D8F}|app_crud\\app_crud.csproj|solutionrelative:app_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "app_crud\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "app_crud\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T23:51:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "app_crud\\Models\\ProductoModel.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "app_crud\\Models\\ProductoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T23:39:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "app_crud\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "app_crud\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T23:38:20.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "app_crud\\Controllers\\ProductoController.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "app_crud\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T23:13:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\appsettings.json",
+              "RelativeDocumentMoniker": "app_crud\\appsettings.json",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app_crud\\app_crud\\appsettings.json",
+              "RelativeToolTip": "app_crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T23:01:18.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
