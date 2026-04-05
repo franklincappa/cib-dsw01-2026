@@ -98,6 +98,63 @@ namespace app_crud.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(ProductoModel obj)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(obj);
+            }
+            string mensaje = "";
+
+            using (SqlConnection cn = new SqlConnection(_config["ConnectionStrings:conexSQL"]))
+            {
+                await cn.OpenAsync();
+
+                SqlCommand cmd = new SqlCommand("usp_actualizar_producto", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                cmd.Parameters.AddWithValue("@idProducto", obj.idProducto);
+                cmd.Parameters.AddWithValue("@descripcion", obj.descripcion);
+                cmd.Parameters.AddWithValue("@uMedida", obj.uMedida);
+                cmd.Parameters.AddWithValue("@precio", obj.precio);
+                cmd.Parameters.AddWithValue("@stock", obj.stock);
+
+                int filas = await cmd.ExecuteNonQueryAsync();
+
+                mensaje = $"Se actualizó {filas} registro";
+            }
+
+            TempData["mensaje"] = mensaje;
+            return RedirectToAction("Index");
+        }
+
+
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            string mensaje = "";
+
+            using (SqlConnection cn = new SqlConnection(_config["ConnectionStrings:conexSQL"]))
+            {
+                await cn.OpenAsync();
+
+                SqlCommand cmd = new SqlCommand("usp_eliminar_producto", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@idProducto", id);
+
+                int filas = await cmd.ExecuteNonQueryAsync();
+
+                mensaje = $"Se elimino {filas} registro";
+            }
+
+            TempData["mensaje"] = mensaje;
+            return RedirectToAction("Index");
+        }
+
+
         public async Task<IActionResult> Index()
         {
             return View( await Task.Run(()=> productos()));
@@ -107,6 +164,38 @@ namespace app_crud.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            ProductoModel model = new ProductoModel();
+
+            using (SqlConnection cn = new SqlConnection(_config["ConnectionStrings:conexSQL"]))
+            {
+                await cn.OpenAsync();
+                SqlCommand cmd = new SqlCommand("usp_seleccionar_producto", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@idProducto", id);
+
+                using (SqlDataReader dr = await cmd.ExecuteReaderAsync()) 
+                {
+                    if (await dr.ReadAsync())
+                    {
+                        model.idProducto = Convert.ToInt32(dr["idProducto"]);
+                        model.descripcion = dr["descripcion"].ToString();
+                        model.uMedida = dr["uMedida"].ToString();
+                        model.precio = Convert.ToDecimal(dr["precio"]);
+                        model.stock = Convert.ToInt32(dr["stock"]);
+                    }
+                    else {
+                        TempData["mensaje"] = "Producto no encontrado";
+                        return RedirectToAction("Index");
+                    }                   
+                }
+            }
+            return View(model);
+        }
+
 
         public async Task<IActionResult> Filtrar(string? nombre = null) 
         {
