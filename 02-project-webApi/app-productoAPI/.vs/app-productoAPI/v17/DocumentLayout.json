@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\app-productoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\app-productoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|f:\\cibertec\\2026\\ciclo 02\\02 - 4695 desarrollo de servicios web i\\desarrollo\\app-productoapi\\app-productoapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9087BDC-179E-4D47-83FD-4A014E8FA3A7}|app-productoAPI\\app-productoAPI.csproj|solutionrelative:app-productoapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "app-productoAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "app-productoAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T01:55:21.551Z",
+              "DocumentIndex": 3,
+              "Title": "app-productoAPI.http",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\app-productoAPI.http",
+              "RelativeDocumentMoniker": "app-productoAPI\\app-productoAPI.http",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\app-productoAPI.http",
+              "RelativeToolTip": "app-productoAPI\\app-productoAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-11T23:50:53.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "app-productoAPI\\Models\\Producto.cs",
-              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Models\\Producto.cs",
-              "RelativeToolTip": "app-productoAPI\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "app-productoAPI\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "app-productoAPI\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T01:43:46.013Z",
+              "WhenOpened": "2026-04-11T23:04:25.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "app-productoAPI\\Services\\ProductoService.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Services\\ProductoService.cs",
+              "RelativeToolTip": "app-productoAPI\\Services\\ProductoService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:01:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "app-productoAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "app-productoAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T22:48:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "app-productoAPI\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\app-productoAPI\\app-productoAPI\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "app-productoAPI\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T22:45:44.281Z",
               "EditorCaption": ""
             }
           ]

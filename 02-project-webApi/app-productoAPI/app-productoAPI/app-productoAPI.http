@@ -4,3 +4,9 @@ GET {{app_productoAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{app_productoAPI_HostAddress}}/api/producto/
+Accept: application/json
+
+###
+GET {{app_productoAPI_HostAddress}}/api/producto/8
+Accept: application/json

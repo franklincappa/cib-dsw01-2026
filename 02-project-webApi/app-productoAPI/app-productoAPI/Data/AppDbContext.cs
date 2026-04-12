@@ -23,6 +23,7 @@ namespace app_productoAPI.Data
                 entity.Property(e => e.Stock).HasColumnName("stock");
 
             });
+
         }
     }
 }
