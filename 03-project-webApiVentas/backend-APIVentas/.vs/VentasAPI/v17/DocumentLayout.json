@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\data\\configurations\\entityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:data\\configurations\\entityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\controllers\\v1\\boletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:controllers\\v1\\boletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|c:\\users\\franklin cappa\\downloads\\files (8)\\ventasapi_backend\\ventasapi\\configs\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A92707-E540-150F-9283-78BC061C01B5}|VentasAPI.csproj|solutionrelative:configs\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T00:33:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Data\\Configurations\\EntityConfigurations.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\EntityConfigurations.cs",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Data\\Configurations\\EntityConfigurations.cs",
+              "RelativeToolTip": "Data\\Configurations\\EntityConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:07:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T00:05:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwDgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:50:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoletasController.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Controllers\\v1\\BoletasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\BoletasController.cs",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Controllers\\v1\\BoletasController.cs",
+              "RelativeToolTip": "Controllers\\v1\\BoletasController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:56:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Configs\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "Configs\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Configs\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "Configs\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:52:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Configs\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "Configs\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\Configs\\SwaggerConfig.cs",
+              "RelativeToolTip": "Configs\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:52:08.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
