@@ -19,6 +19,7 @@ public class BoletasController(IBoletaService service) : ControllerBase
         => Ok(ApiResponse<IEnumerable<BoletaDto>>.SuccessResult(await service.GetAllAsync()));
 
     /// <summary>Obtiene una boleta por su número incluyendo todos sus detalles</summary>
+    /// 
     [HttpGet("{id}")]
     [ProducesResponseType(typeof(ApiResponse<BoletaDto>), 200)]
     [ProducesResponseType(typeof(ApiResponse<BoletaDto>), 404)]

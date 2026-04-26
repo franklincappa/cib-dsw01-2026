@@ -33,11 +33,13 @@ builder.Services.AddApiVersioning(options =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>
-        policy.WithOrigins("http://localhost:4200", "https://localhost:4200")
+        policy.SetIsOriginAllowed(_ => true)        
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials());
 });
+
+//policy.WithOrigins("http://localhost:4200", "https://localhost:4200")
 
 // ── Application Services (DI, DbContext, Repos, Services) ─
 builder.Services.AddApplicationServices(builder.Configuration);
@@ -50,21 +52,21 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.Configure<Microsoft.AspNetCore.Mvc.MvcOptions>(options => { });
 
 
-
+// --- Filtrado de Rutas API ─────────────────────────────
 builder.Services.AddRouting(options =>
 {
-    options.LowercaseUrls = true;   // /api/v1/boletas
+    options.LowercaseUrls = true;   // /api/v1/boletas       reporte-boletas        
     options.LowercaseQueryStrings = true;   // ?desde=  &hasta=
 });
 
 var app = builder.Build();
 
 // ── Pipeline ─────────────────────────────────────────────
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwaggerConfiguration();
     app.UseDeveloperExceptionPage();
-}
+//}
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAngular");

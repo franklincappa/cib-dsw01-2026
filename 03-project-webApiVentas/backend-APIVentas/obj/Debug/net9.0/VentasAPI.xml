@@ -9,6 +9,7 @@
         </member>
         <member name="M:VentasAPI.Controllers.v1.BoletasController.GetById(System.String)">
             <summary>Obtiene una boleta por su número incluyendo todos sus detalles</summary>
+            
         </member>
         <member name="M:VentasAPI.Controllers.v1.BoletasController.GetByCliente(System.String)">
             <summary>Obtiene todas las boletas de un cliente específico</summary>

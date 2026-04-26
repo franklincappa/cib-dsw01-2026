@@ -5691,11 +5691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\VentasAPI.csproj",
+      "projectUniqueName": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\cib-dsw01-2026\\03-project-webApiVentas\\backend-APIVentas\\VentasAPI.csproj",
       "projectName": "VentasAPI",
-      "projectPath": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\VentasAPI.csproj",
+      "projectPath": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\cib-dsw01-2026\\03-project-webApiVentas\\backend-APIVentas\\VentasAPI.csproj",
       "packagesPath": "C:\\Users\\Franklin Cappa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franklin Cappa\\Downloads\\files (8)\\VentasAPI_Backend\\VentasAPI\\obj\\",
+      "outputPath": "F:\\CIBERTEC\\2026\\CICLO 02\\02 - 4695 DESARROLLO DE SERVICIOS WEB I\\Desarrollo\\cib-dsw01-2026\\03-project-webApiVentas\\backend-APIVentas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
